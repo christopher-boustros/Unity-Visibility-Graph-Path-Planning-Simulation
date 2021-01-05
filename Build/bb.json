@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity-Visibility-Graph-Path-Planning-Simulation",
+"productVersion": "0.1",
+"dataUrl": "bb.data.unityweb",
+"wasmCodeUrl": "bb.wasm.code.unityweb",
+"wasmFrameworkUrl": "bb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
