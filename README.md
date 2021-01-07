@@ -1,5 +1,5 @@
 # Unity Visibility Graph Path Planning Simulation
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-Visibility-Graph-Path-Planning-Simulation)
+![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-Visibility-Graph-Path-Planning-Simulation "Code size")
 
 A simulation made with Unity in which agents perform path planning with a dynamically generated reduced visibility graph and the A\* algorithm. This was made as part of a course assignment for COMP 521 Modern Computer Games in fall 2020 at McGill University.
 
